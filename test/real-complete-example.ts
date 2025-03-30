@@ -25,7 +25,7 @@ export interface Task {
   state: ProjectState;
 }
 
-export interface Technology {
+interface Technology {
   name: string;
 }
 
